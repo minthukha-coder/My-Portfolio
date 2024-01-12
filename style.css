@@ -61,21 +61,6 @@ nav #myNavbar a.active {
   color: #1f242d;
 }
 
-/* .home .blob-motion {
-  position: absolute;
-  transform: translateY(-20%);
-  z-index: 0;
-}
-
-.home .blob-content {
-  z-index: 1;
-}
-
-.home .blobs {
-  width: 100%;
-  background: url("./blobs.svg") no-repeat bottom / cover;
-} */
-
 .home .btn {
   display: inline-block;
   padding: 12px 28px;
